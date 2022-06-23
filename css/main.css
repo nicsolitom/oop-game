@@ -13,4 +13,12 @@ body {
     width: 10vw; 
     height: 20vh; 
     background: rgb(16, 145, 136);
+    position: absolute;
+}
+
+.obstacle {
+    width: 10vw;
+    height: 10vh;
+    background-color: rgb(151, 15, 145);
+    position: absolute;
 }
